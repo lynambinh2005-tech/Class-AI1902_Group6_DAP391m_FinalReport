@@ -15,4 +15,5 @@ This project uses machine learning models to predict housing prices based on var
 - run_model.ipynb: Main notebook for training and evaluation
 
 ### Author
-- Your Name
+- Lý Nam Bình
+- Nguyễn Tuấn An
